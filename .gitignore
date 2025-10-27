@@ -1,0 +1,19 @@
+# Ignore virtual environment
+.venv/
+# Or sometimes venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS Finder files
+.DS_Store
+
+# Env and secrets
+.env
+*.env
+
+# IDE / Editor files
+.vscode/
+.idea/
